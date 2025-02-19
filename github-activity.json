@@ -1,0 +1,912 @@
+[
+  {
+    "id": "46695363560",
+    "type": "PushEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934888764,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-"
+    },
+    "payload": {
+      "repository_id": 934888764,
+      "push_id": 22723182655,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "82ca10b033ef025ca3abc55521d810b90f52af02",
+      "before": "ff89862d6ed0326ce394a40ef5ed0bb9a0e1f864",
+      "commits": [
+        {
+          "sha": "82ca10b033ef025ca3abc55521d810b90f52af02",
+          "author": {
+            "email": "70509293+Naveensmart48@users.noreply.github.com",
+            "name": "Naveenkumar48"
+          },
+          "message": "Updated LICENSE",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-/commits/82ca10b033ef025ca3abc55521d810b90f52af02"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-02-18T15:44:45Z"
+  },
+  {
+    "id": "46695134936",
+    "type": "PushEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934888764,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-"
+    },
+    "payload": {
+      "repository_id": 934888764,
+      "push_id": 22723076892,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "ff89862d6ed0326ce394a40ef5ed0bb9a0e1f864",
+      "before": "8940887c1bfcb0fe8f542d9a9fdda5d76647084f",
+      "commits": [
+        {
+          "sha": "ff89862d6ed0326ce394a40ef5ed0bb9a0e1f864",
+          "author": {
+            "email": "naveenkumarrv2000@gmail.com",
+            "name": "Naveen Kumar"
+          },
+          "message": "Updated README and added images",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-/commits/ff89862d6ed0326ce394a40ef5ed0bb9a0e1f864"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-02-18T15:39:30Z"
+  },
+  {
+    "id": "46695019995",
+    "type": "PushEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934888764,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-"
+    },
+    "payload": {
+      "repository_id": 934888764,
+      "push_id": 22723024870,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "8940887c1bfcb0fe8f542d9a9fdda5d76647084f",
+      "before": "cd3021c28054fa31967a05b16349cb0d78421866",
+      "commits": [
+        {
+          "sha": "8940887c1bfcb0fe8f542d9a9fdda5d76647084f",
+          "author": {
+            "email": "naveenkumarrv2000@gmail.com",
+            "name": "Naveen Kumar"
+          },
+          "message": "Added screenshots to README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-/commits/8940887c1bfcb0fe8f542d9a9fdda5d76647084f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-02-18T15:36:49Z"
+  },
+  {
+    "id": "46694533738",
+    "type": "PushEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934888764,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-"
+    },
+    "payload": {
+      "repository_id": 934888764,
+      "push_id": 22722799132,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "cd3021c28054fa31967a05b16349cb0d78421866",
+      "before": "84aa08e15f4e8ac2eee1dfc1c63697312c3aa8b1",
+      "commits": [
+        {
+          "sha": "cd3021c28054fa31967a05b16349cb0d78421866",
+          "author": {
+            "email": "naveenkumarrv2000@gmail.com",
+            "name": "Naveen Kumar"
+          },
+          "message": "Commited Nav48",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-/commits/cd3021c28054fa31967a05b16349cb0d78421866"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-02-18T15:25:52Z"
+  },
+  {
+    "id": "46693867351",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934888764,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "Here's a 350-character description for your repository:  \"AI-Powered Resume Screener built with FastAPI, PostgreSQL, and OpenAI. This project leverages AI to evaluate and analyze resumes, providing insights and recommendations. The system features a FastAPI backend, PostgreSQL database for reviewing resumes.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T15:11:15Z"
+  },
+  {
+    "id": "46693867294",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934888764,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-FastAPI-PostgreSQL-OpenAI-"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "Here's a 350-character description for your repository:  \"AI-Powered Resume Screener built with FastAPI, PostgreSQL, and OpenAI. This project leverages AI to evaluate and analyze resumes, providing insights and recommendations. The system features a FastAPI backend, PostgreSQL database for reviewing resumes.",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T15:11:15Z"
+  },
+  {
+    "id": "46692613984",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934872542,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "AI-Powered Resume Screener 🤖📄 This project is an AI-powered resume screening tool built using FastAPI, OpenAI API to match the content with JD",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:43:09Z"
+  },
+  {
+    "id": "46692566962",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934872542,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "AI-Powered Resume Screener 🤖📄 This project is an AI-powered resume screening tool built using FastAPI, OpenAI API to match the content with JD",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:42:03Z"
+  },
+  {
+    "id": "46692567070",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934872542,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "AI-Powered Resume Screener 🤖📄 This project is an AI-powered resume screening tool built using FastAPI, OpenAI API to match the content with JD",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:42:03Z"
+  },
+  {
+    "id": "46692352913",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934864610,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-"
+    },
+    "payload": {
+      "ref": "master",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "AI-Powered Resume Screener 🤖📄 A FastAPI-based web app that uses OpenAI to analyze and score resumes for job applications. Built with PostgreSQL for storing resumes and FastAPI for a fast and scalable API. 🚀  Upload resumes 📤 AI-powered screening 🤖 Store data in PostgreSQL 🗄️ ",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:37:11Z"
+  },
+  {
+    "id": "46692038921",
+    "type": "PushEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934864610,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-"
+    },
+    "payload": {
+      "repository_id": 934864610,
+      "push_id": 22721615811,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/main",
+      "head": "443424ec53ec525b89d05323430087520a910fa2",
+      "before": "b114e325b4f5a53ba83823f4c6f1455a79e84095",
+      "commits": [
+        {
+          "sha": "443424ec53ec525b89d05323430087520a910fa2",
+          "author": {
+            "email": "70509293+Naveensmart48@users.noreply.github.com",
+            "name": "Naveenkumar48"
+          },
+          "message": "Updated README File - Nave@48\n\nUpdated on 18th Feb 2025",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-/commits/443424ec53ec525b89d05323430087520a910fa2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:30:02Z"
+  },
+  {
+    "id": "46691939725",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934864610,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "AI-Powered Resume Screener 🤖📄 A FastAPI-based web app that uses OpenAI to analyze and score resumes for job applications. Built with PostgreSQL for storing resumes and FastAPI for a fast and scalable API. 🚀  Upload resumes 📤 AI-powered screening 🤖 Store data in PostgreSQL 🗄️ ",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:27:54Z"
+  },
+  {
+    "id": "46691939625",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 934864610,
+      "name": "Naveensmart48/AI-Powered-Resume-Screener-",
+      "url": "https://api.github.com/repos/Naveensmart48/AI-Powered-Resume-Screener-"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "AI-Powered Resume Screener 🤖📄 A FastAPI-based web app that uses OpenAI to analyze and score resumes for job applications. Built with PostgreSQL for storing resumes and FastAPI for a fast and scalable API. 🚀  Upload resumes 📤 AI-powered screening 🤖 Store data in PostgreSQL 🗄️ ",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-18T14:27:54Z"
+  },
+  {
+    "id": "46457940774",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 277269528,
+      "name": "msk4862/Anomly",
+      "url": "https://api.github.com/repos/msk4862/Anomly"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:48Z"
+  },
+  {
+    "id": "46457939433",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 47530004,
+      "name": "hustcc/canvas-nest.js",
+      "url": "https://api.github.com/repos/hustcc/canvas-nest.js"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:47Z"
+  },
+  {
+    "id": "46457938758",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 590072869,
+      "name": "KWICBOTS/File-sharing-Bot",
+      "url": "https://api.github.com/repos/KWICBOTS/File-sharing-Bot"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:46Z"
+  },
+  {
+    "id": "46457937478",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 642917329,
+      "name": "vercel/ai-chatbot",
+      "url": "https://api.github.com/repos/vercel/ai-chatbot"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:44Z",
+    "org": {
+      "id": 14985020,
+      "login": "vercel",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/vercel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14985020?"
+    }
+  },
+  {
+    "id": "46457936133",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 45271904,
+      "name": "drivendataorg/cookiecutter-data-science",
+      "url": "https://api.github.com/repos/drivendataorg/cookiecutter-data-science"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:42Z",
+    "org": {
+      "id": 9515608,
+      "login": "drivendataorg",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/drivendataorg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9515608?"
+    }
+  },
+  {
+    "id": "46457935180",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 707497983,
+      "name": "Asma-malica/ML",
+      "url": "https://api.github.com/repos/Asma-malica/ML"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:40Z"
+  },
+  {
+    "id": "46457934095",
+    "type": "WatchEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 768005874,
+      "name": "codebucks27/Next.js-Creative-Portfolio-Website",
+      "url": "https://api.github.com/repos/codebucks27/Next.js-Creative-Portfolio-Website"
+    },
+    "payload": {
+      "action": "started"
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:22:39Z"
+  },
+  {
+    "id": "46457898556",
+    "type": "PushEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 930950665,
+      "name": "Naveensmart48/Resumeparse",
+      "url": "https://api.github.com/repos/Naveensmart48/Resumeparse"
+    },
+    "payload": {
+      "repository_id": 930950665,
+      "push_id": 22597769725,
+      "size": 54,
+      "distinct_size": 54,
+      "ref": "refs/heads/main",
+      "head": "70e6b28d71b0652ff220022d22c1a60418c7ef7c",
+      "before": "caad2e1ee4c6961838f266dbe52472bc207f8f3b",
+      "commits": [
+        {
+          "sha": "11b7973b22d5b1b823632efaf82147a9102c30f1",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Initial commit",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/11b7973b22d5b1b823632efaf82147a9102c30f1"
+        },
+        {
+          "sha": "ec4c15e9ec7c631d32ca1fd7e7d831cdf48bf687",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added utils file for extracting name, email, mobile. Also added main wrapper file",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/ec4c15e9ec7c631d32ca1fd7e7d831cdf48bf687"
+        },
+        {
+          "sha": "e955c814ad12c993518115d4f311cd3f67a5c9de",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added function to extract skills",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/e955c814ad12c993518115d4f311cd3f67a5c9de"
+        },
+        {
+          "sha": "d3cc9d7d4ad34be80c63e5cffc349b95e9b83869",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added new resume and bug fix for plus sign in mobile number extraction",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/d3cc9d7d4ad34be80c63e5cffc349b95e9b83869"
+        },
+        {
+          "sha": "67ca4a6553967076b89ac07d9a03332e4b5c5b8e",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added scanning of bigrams and trigrams while parsing skills",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/67ca4a6553967076b89ac07d9a03332e4b5c5b8e"
+        },
+        {
+          "sha": "b48e2cf1309edc391a6f3c868581ad2277e411d7",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added method to extract education (degree and year of passinng)",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/b48e2cf1309edc391a6f3c868581ad2277e411d7"
+        },
+        {
+          "sha": "56628a4f44ee7f030ac40f06c5f5ec4a777ab8b1",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added docx and doc suppor",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/56628a4f44ee7f030ac40f06c5f5ec4a777ab8b1"
+        },
+        {
+          "sha": "a615db718cff89439a63b0df905ca79296fb01b4",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Updated README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/a615db718cff89439a63b0df905ca79296fb01b4"
+        },
+        {
+          "sha": "2feccbebb7a1f5a7a88e2e95035c4d1e3c1077c6",
+          "author": {
+            "email": "dazzag@gmail.com",
+            "name": "dazzag24"
+          },
+          "message": "A couple of small changes. (#1)\n\n* Update utils.py\r\n\r\n* Fix regex error",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/2feccbebb7a1f5a7a88e2e95035c4d1e3c1077c6"
+        },
+        {
+          "sha": "db598874e58e8d609a25105d73dcd18e1482c951",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added result in README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/db598874e58e8d609a25105d73dcd18e1482c951"
+        },
+        {
+          "sha": "4a995fcb05d9f3f0c5aa8fe17fc2c8da8c11e37e",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added result in README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/4a995fcb05d9f3f0c5aa8fe17fc2c8da8c11e37e"
+        },
+        {
+          "sha": "df9edaef6c3374edc95d3c49b0937d990cdb36ed",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added docstrings and code cleanup",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/df9edaef6c3374edc95d3c49b0937d990cdb36ed"
+        },
+        {
+          "sha": "92e070834b99956b9934a36bd9eb00b7e27de547",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "added cli option",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/92e070834b99956b9934a36bd9eb00b7e27de547"
+        },
+        {
+          "sha": "bbaf42577adc1c12e351e3a6ce535f6abff9f698",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "updated README",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/bbaf42577adc1c12e351e3a6ce535f6abff9f698"
+        },
+        {
+          "sha": "2ed6da7254f793e992ec606af8c70fd10e817ca1",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added GUI for better accessibility and simple usage",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/2ed6da7254f793e992ec606af8c70fd10e817ca1"
+        },
+        {
+          "sha": "f8d66cdaa8062d5cea4894c314fc1c4c9a10107a",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Updated requirements.txt",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/f8d66cdaa8062d5cea4894c314fc1c4c9a10107a"
+        },
+        {
+          "sha": "b5b84ee006c10bf1f6e4496239680ec456c69462",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added PDF file links in frontend and bug fixes",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/b5b84ee006c10bf1f6e4496239680ec456c69462"
+        },
+        {
+          "sha": "60ae6f4c002b9aec1c16f4c7ecda2a50129037c2",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added Django GUI working Screenshots",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/60ae6f4c002b9aec1c16f4c7ecda2a50129037c2"
+        },
+        {
+          "sha": "dc31366a88555383cfe3a54c58438f056250acf9",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Bug fix: cannot import constants.py",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/dc31366a88555383cfe3a54c58438f056250acf9"
+        },
+        {
+          "sha": "2938b3c6887661b83c36df41a8a95902741c5807",
+          "author": {
+            "email": "omkarpathak27@gmail.com",
+            "name": "Omkar Pathak"
+          },
+          "message": "Added function to extract experience and changed the cli an gui code accordingly",
+          "distinct": true,
+          "url": "https://api.github.com/repos/Naveensmart48/Resumeparse/commits/2938b3c6887661b83c36df41a8a95902741c5807"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2025-02-11T16:21:48Z"
+  },
+  {
+    "id": "46451059971",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 930950665,
+      "name": "Naveensmart48/Resumeparse",
+      "url": "https://api.github.com/repos/Naveensmart48/Resumeparse"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "🚀 Resume Parser with Flask & Tailwind A smart Resume Parser that extracts Name, Email, Phone, Skills & more from resumes 📄✨. ✅ Upload PDF/DOCX/TXT or Paste Text ✅ Fast, Accurate & Clean UI 🚀 ✅ Built with Flask & Tailwind CSS  🔗 Run Locally:",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-11T13:41:56Z"
+  },
+  {
+    "id": "46450775504",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 930950665,
+      "name": "Naveensmart48/Resumeparse",
+      "url": "https://api.github.com/repos/Naveensmart48/Resumeparse"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "🚀 Resume Parser with Flask & Tailwind A smart Resume Parser that extracts Name, Email, Phone, Skills & more from resumes 📄✨. ✅ Upload PDF/DOCX/TXT or Paste Text ✅ Fast, Accurate & Clean UI 🚀 ✅ Built with Flask & Tailwind CSS  🔗 Run Locally:",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-11T13:34:56Z"
+  },
+  {
+    "id": "46380075503",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 929851692,
+      "name": "Naveensmart48/ResumeParser",
+      "url": "https://api.github.com/repos/Naveensmart48/ResumeParser"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "Enhanced Resume Parser with ATS Optimization - February 2025",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-09T15:01:40Z"
+  },
+  {
+    "id": "46380067418",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 70509293,
+      "login": "48Naveenkumar",
+      "display_login": "48Naveenkumar",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/48Naveenkumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70509293?"
+    },
+    "repo": {
+      "id": 929851692,
+      "name": "Naveensmart48/ResumeParser",
+      "url": "https://api.github.com/repos/Naveensmart48/ResumeParser"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "Enhanced Resume Parser with ATS Optimization - February 2025",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-02-09T15:01:04Z"
+  }
+]
