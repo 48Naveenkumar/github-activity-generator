@@ -38,6 +38,18 @@ Modules used:
 💡 Features
 ✅ Fetches GitHub activity for any user
 ✅ Supports filtering by event types (Push, PRs, Issues)
+
+## Screenshots
+
+### Project Structure
+![Project Structure Screenshot](images/Screenshot1.png)
+
+### Commands
+![Commands Screenshot](images/Screenshot2.png)
+
+### How to Use
+![How to Use Screenshot](images/Screenshot3.png)
+
 ✅ Saves data to a structured JSON file
 ✅ Outputs a formatted HTML report
 
