@@ -43,6 +43,8 @@ Modules used:
 
 ### Project Structure
 ![Project Structure Screenshot](images/Screenshot1.png)
+![Project Structure Screenshot](https://github.com/48Naveenkumar/github-activity-generator/blob/main/images/Screenshot1.png?raw=true)
+
 
 ### Commands
 ![Commands Screenshot](images/Screenshot2.png)
